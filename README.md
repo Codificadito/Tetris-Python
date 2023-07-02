@@ -6,7 +6,7 @@ El Tetris es un popular juego de puzzle en el que el jugador debe colocar difere
 Este proyecto fue completamente desarrollado utilizando Python y se basa en el concepto de programación orientada a objetos (POO). Utiliza la biblioteca Pygame para la interfaz gráfica y la interacción con el usuario.
 
 Controles del juego
-Movimientos de las figuras: A (izquierda), D (derecha), S (abajo), W (rotar).
+Movimientos de las figuras: A (izquierda), D (derecha), S (abajo).
 Iniciar el juego: I
 Pausar el juego: P
 Girar la figura: J
